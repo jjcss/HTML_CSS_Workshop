@@ -7,7 +7,7 @@ We used repl.it for the code-along, but in this workshop we managed to go over b
 
 We hope you walk away with some knowledge and that you got to have some fun while doing it!
 
-![Sep-22-2021 17-54-39](https://user-images.githubusercontent.com/61469904/134427396-b60ba253-f317-4573-b43e-b1385948001c.gif)
+![HTML:CSS_Workshop](https://user-images.githubusercontent.com/33881291/136454837-ebd6d841-073e-4a5d-9427-699dc6f8c896.gif)
 
 ## Coming here after workshop?
 We put 2 folders one which has the empty files you would use to follow along with the video recording and 
