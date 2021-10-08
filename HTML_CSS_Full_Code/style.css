@@ -1,0 +1,138 @@
+/* block, img1, img2*/
+.block {
+  height: 50px;
+  width: 100%;
+  height: 48%;
+  float: left;
+  padding-bottom: 15px;
+}
+
+.img1 {
+  width: 10%;
+  height: 48%;
+  float: left;
+  padding-bottom: 15px;
+}
+
+.img2 {
+  width: 10%;
+  height: 48%;
+  float: right;
+  padding-bottom: 15px;
+}
+/* end */
+
+
+/* box, box1, sub, img3, fig1, text1 */
+.box {
+  border: 3px solid black;
+  height: 720px;
+  background-color: pink;
+}
+
+.box1 {
+  width: 60%;
+  height: 300px;
+  float: left;
+  /* text-align: center; */
+  margin-left: 18%;
+}
+
+.sub {
+  width: 40%;
+  height: 100%;
+  box-sizing: border-box;
+  float: left;
+}
+
+.img3 {
+  width: 65%;
+  height: 200px;
+  border: 2px solid purple;
+  margin-top: 7%
+}
+
+.fig1 {
+  padding-right:11em;
+  color: white;
+}
+
+.text1 {
+  text-align: left;
+  color: white;
+  margin-top: 5%;
+  font-size: 20px;
+  overflow: auto;
+}
+/* end */
+
+/* box2, sub2, img4, fig2, text2 */
+.box2 {
+  width: 60%;
+  height: 300px;
+  float: left;
+  margin-left: 18%;
+}
+
+.sub2 {
+  width: 50%;
+  height: 100%;
+  box-sizing: border-box;
+  float: right;
+}
+
+.img4 {
+  width: 53%;
+  height: 200px;
+  border: 2px solid purple;
+  margin-left: 29%;
+}
+
+.fig2 {
+  color: white;
+  text-align: center;
+}
+
+.text2 {
+  text-align: left;
+  margin-right: 50%;
+  color: white;
+  font-size: 20px;
+  margin-top: 5%;
+  overflow: auto;
+}
+/* end */
+
+/* phone, l, p3, img, table, sub3 */
+.phone {
+  width: 70px;
+}
+
+.l {
+  position: relative;
+  top: -32px;
+  left: 30px;
+}
+
+.p3 {
+  display: inline;
+  font-size: 20px;
+}
+
+img {
+  width: 46%;
+  height: 48%;
+}
+
+table {
+  width: 450px;
+}
+
+.sub3 {
+  width: 50%;
+  height: 100%;
+  border: 2px solid purple;
+  box-sizing: border-box;
+  float: left;
+}
+/* end */
