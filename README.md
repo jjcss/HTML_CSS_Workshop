@@ -14,7 +14,7 @@ We put 2 folders one which has the empty files you would use to follow along wit
 the other one will have the finished project for reference.
 
 ### Recording information:
-- [Zoom link](https://discord.com/channels/813520444715565086/860545756301623327/895775172349538314)
+- [Zoom link](https://jjay-cuny.zoom.us/rec/play/xPI3Lz4LV4H8UwS6--IKXQ_XnQb-7Le9P1bx7GTJZqYGoAEe1s8zNOC4gX2-foAZnUZos99KhV1hnZu3.dZFqfCoIH0_Fr2db?continueMode=true&_x_zm_rtaid=y_Rxh5_DSw20Dpplhi2L7g.1633670356814.692cd526cfe8cd5b7e220503a4dfb0bd&_x_zm_rhtaid=381)
 - Passcode: R&!mT8xQ 
 
 ## Resources for the workshop:
@@ -22,7 +22,7 @@ the other one will have the finished project for reference.
 - [Practice HTML/CSS](https://www.codecademy.com/catalog/language/html-css)
 - [Repl.it File with no code](https://replit.com/@r0m3c/CSSHTMLCSS#index.html)
 - [Repl.it File with Full code](https://replit.com/@r0m3c/ExHTMLCSS#index.html)
-- [HTML/CSS Intro File](https://discord.com/channels/813520444715565086/860545756301623327/895843227905703937)
+- [HTML/CSS Intro File](https://docs.google.com/document/d/1TKhnlKSJMRDLmXN1n9rSVQdTPkIKaTUJseHvtSdSfag/edit)
 
 
 > Last updated by Leandro Gamarra
