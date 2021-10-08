@@ -14,16 +14,17 @@ We put 2 folders one which has the empty files you would use to follow along wit
 the other one will have the finished project for reference.
 
 ### Recording information:
-- [Zoom link](https://jjay-cuny.zoom.us/rec/share/-4NUIzweXU8CnZKvK7vGIluz45l6HBGxKIhhD8WAaPAjD6F-7t01vNH_vCCvVGZ3.2ZDRV4eL3Ooo_-uO)
-- Passcode: +HHbj2G2 
+- [Zoom link](https://discord.com/channels/813520444715565086/860545756301623327/895775172349538314)
+- Passcode: R&!mT8xQ 
 
 ## Resources for the workshop:
 - [HTML/CSS Explanation](https://www.w3schools.com/html/default.asp)
 - [Practice HTML/CSS](https://www.codecademy.com/catalog/language/html-css)
 - [Repl.it File with no code](https://replit.com/@r0m3c/CSSHTMLCSS#index.html)
 - [Repl.it File with Full code](https://replit.com/@r0m3c/ExHTMLCSS#index.html)
+- [HTML/CSS Intro File](https://discord.com/channels/813520444715565086/860545756301623327/895843227905703937)
 
 
 > Last updated by Leandro Gamarra
 
-> Credits to: https://www.udemy.com/share/103IHM3@THvj1W2HOSnNcasX52wt3HDRiI5iMCK_6wt78wp5nZQAauhS0Cv9WxsGfAZRMnqFUw==/ 
+> Credits to: Cuny Ever-Up SWE Course
